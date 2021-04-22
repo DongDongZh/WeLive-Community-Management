@@ -15,7 +15,7 @@ Our goal is to design a community management system that promotes better communi
 Basic Features (MVP):
 
 * Registration & Login - Allow different types of users to register and log into/out of the system.
-*   Use Registration Controller to save user information from front-end to database.
+    * Use Registration Controller to save user information from front-end to database.
 Different user type has different authorities.
 Apply Spring Security to implement authentication
 Dashboard - Notify users with newest update of each ticket, payment due, and other important notifications.

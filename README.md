@@ -22,19 +22,19 @@ Basic Features (MVP):
 * Ticket Submitting - Generate tickets of different issues categories by residents, and assign tickets with available maintenance staff.
 * Calendar - Sort notifications into calendar form, and enable 
 
-Advanced features:
+Advanced features (to be developed in future):
 
-Payment - Produce late payment notification and bill of rent and maintenance.
+* Payment - Produce late payment notification and bill of rent and maintenance.
+* Chat board - Allow residents to post anecdotes and communicate with others.
 
-Chat board - Allow residents to post anecdotes and communicate with others.
+## Major Tech Stack
 
-Major Tech Stack
-Frontend: 
-React
-Ant design component library
-Axios
-Backend:
-Spring MVC
-Tomcat
-Hibernate
-MySQL database (built on Amazon RDS) 
+* Frontend: 
+   * React
+   * Ant design component library
+   * Axios
+* Backend:
+   * Spring MVC
+   * Tomcat
+   * Hibernate
+   * MySQL database (built on Amazon RDS) 

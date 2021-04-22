@@ -2,6 +2,8 @@ Demo video: https://www.youtube.com/watch?v=QU5V-dgUjhY
 
 Design doc: https://docs.google.com/document/d/1o8S0fauxCnO0-k3lM3zE3ypMH7BMzvti8E-8Yz02Rx0/edit?usp=sharing
 
+Inquiries at ddzhang2018@gmail.com
+
 # WeLive 
 
 a community management system to facilitate 3-way (manager/resident/staff) communication.
